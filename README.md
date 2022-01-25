@@ -1,2 +1,2 @@
 # TurtleTyper
-The official TurtleTyper github
+The official TurtleTyper github; Make sure to check branches for updates.
